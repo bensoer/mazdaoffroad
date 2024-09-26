@@ -1,0 +1,35 @@
+site_name: Mazda Offroad
+theme:
+  logo: assets/mazda-logo-512.png
+  favicon: assets/mazda-logo-512.ico
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - toc.follow
+    - toc.integrate
+    - navigation.expand
+    - navigation.path
+    - navigation.prune
+    - navigation.top
+    - search.suggest
+    - search.highlight
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+nav:
+  - Home: 
+    - index.md
+  - Offroad Builds: 
+    - Maurice - A 2021 CX-30 GT: builds/maurice-2021-cx-30-gt/index.md
+  - Guides: guides.md
+
+
