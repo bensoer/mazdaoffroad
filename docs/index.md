@@ -1,3 +1,3 @@
 # Home
 
-Welcome to Mazda Offroad!
+Welcome to CX-30 Offroad!

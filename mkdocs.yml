@@ -1,4 +1,4 @@
-site_name: Mazda Offroad
+site_name: Offroad CX-30
 theme:
   logo: assets/mazda-logo-512.png
   favicon: assets/mazda-logo-512.ico
@@ -30,6 +30,7 @@ nav:
     - index.md
   - Offroad Builds: 
     - Maurice - A 2021 CX-30 GT: builds/maurice-2021-cx-30-gt/index.md
-  - Guides: guides.md
+  - Tire Guide: tireguide.md
+  - Additional Resources: resources.md
 
 
