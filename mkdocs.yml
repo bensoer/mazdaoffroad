@@ -1,7 +1,7 @@
 site_name: Offroad CX-30
 theme:
-  logo: assets/mazda-logo-512.png
-  favicon: assets/mazda-logo-512.ico
+  logo: assets/mazda-logo-512-white.png
+  favicon: assets/mazda-logo-512-white.ico
   name: material
   language: en
   features:
