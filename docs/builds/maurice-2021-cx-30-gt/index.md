@@ -27,7 +27,7 @@ A mildy modified softroad build for road trips, FSRs, camping and hiking
 | Air Compressor | Viair 00088 88P Portal Air Compressor | [https://a.co/d/9zRqO34](https://a.co/d/9zRqO34) | Overkill, but will inflate K02s from 20 - 35psi in about a minute or less |
 | Battery Jump Starter | NOCO Boost Plus GB40 | [https://a.co/d/gSDNNfb](https://a.co/d/gSDNNfb) | Great work around for the CX-30s small battery! Charges with USB-C and will jump about 2-3 times on a single charge |
 
-## Owner Interview Questions
+## Interview Questions
 
 ### Q: Whats Your Favourite Part About Your Build ?
 I love the tires. These A/Ts look really good on it and are probably the easiest and simplest way to add more capability to the car. 
@@ -44,5 +44,5 @@ Learn about your tires and the limitations of them for the CX-30. There are a lo
 
 Also note when increasing or changing your tire size, will mean your speedometer will start lying to you. My setup only has about a +5-10km/hr difference, and it really only shows at highway speeds. So you never have to worry about speeding through a school zone, but youll want to be aware on the highway your probably going 5-10km more then whatever the spedometer says. But there are more combos of rim and tire size and that can have different effects on your speedometer.
 
-## Owner Socials & Contact
+## Socials & Contact
 :fontawesome-brands-reddit-alien: [ @outthere_andback](https://www.reddit.com/user/outthere_andback/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
